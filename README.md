@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+<h1 align="center">
+    <a target="blank" href="https://danielbr98.github.io/music-player/">🔗 Music Player</a>
+</h1>
+<p align="center">🎵 Music player to listen to at work.</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+ <a href="#prerequisites">Prerequisites</a> • 
+ <a href="#technologies">Technologies</a> • 
+ <a href="#author">Author</a>
+</p>
 
-## Available Scripts
+<h1 align="center">
+  <a target="blank" href="https://danielbr98.github.io/music-player/"><img alt="Music Player" title="Music Player" src="https://user-images.githubusercontent.com/43521892/148863031-81ad1f2b-fb18-404f-b97a-e746d0dd9c33.png"/></a>
+</h1>
 
-In the project directory, you can run:
+---
+### Prerequisites
 
-### `npm start`
+#### </> Source Code Editor
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+I recommend [VSCode](https://code.visualstudio.com/), because it already has Git included.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```bash
+# Install
 
-### `npm test`
+$ npm install
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+# Usage
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+$ npm start
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+---
+### Technologies
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- React
 
-### `npm run eject`
+---
+### Author
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<a href="https://danielbrasil.netlify.app/">
+    <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/43521892?s=460&u=a046dc36c1027811da0f562d64ea2fab5cab97de&v=4" width="100px;" alt="Daniel"/><a/><br>
+<a href="https://danielbrasil.netlify.app/" title="Daniel Brasil"><small>Daniel Brasil 💥</small></a>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Created by Daniel Brasil 👋🏽 Contact me!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&link=https://danielbrasil.netlify.app/)](https://danielbrasil.netlify.app/)
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-brasil-de-lima-a9b61a143/)](https://www.linkedin.com/in/daniel-brasil-de-lima-a9b61a143/) 
+[![Outlook Badge](https://img.shields.io/badge/-danielbrasild10@hotmail.com-blue?style=flat-square&link=mailto:danielbrasild10@hotmail.com)](mailto:danielbrasild10@hotmail.com)
