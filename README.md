@@ -23,12 +23,12 @@ I recommend [VSCode](https://code.visualstudio.com/), because it already has Git
 ```bash
 # Install
 
-$ npm install
+npm install
 
 
 # Usage
 
-$ npm start
+npm start
 
 ```
 ---
